@@ -1,0 +1,16 @@
+[
+{
+  "modid": "GoalTracker",
+  "name": "Goal Tracker Mod",
+  "description": "Tracks money goals in Hypixel Skyblock!",
+  "version": 0.2",
+  "mcversion": "0.2.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["akshar828"],
+  "credits": "None",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
